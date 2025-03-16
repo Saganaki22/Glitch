@@ -2,6 +2,9 @@
 
 A web-based image glitch art generator that allows you to create unique visual effects and distortions for your images.
 
+![image](https://github.com/user-attachments/assets/816e8db5-a8e4-401b-bd38-27763797aaff)
+
+
 ## 🌐 Live Demo
 
 Try it out here: [Glitch Maker](https://glitch22.vercel.app/)
